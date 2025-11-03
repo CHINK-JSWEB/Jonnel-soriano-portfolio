@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🌐 Jonnel Soriano - Web Developer Portfolio
 
 [![Website](https://img.shields.io/badge/Website-GitHub-blue?style=for-the-badge)](https://github.com/CHINK-JSWEB)
@@ -6,9 +5,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-CHINK--JSWEB-black?style=for-the-badge)](https://github.com/CHINK-JSWEB)
 
 ---
+
 ![Portfolio Screenshot](assets/images/Developer-portfolio-website.jpg)
 
-Hi there! I'm **Jonnel Soriano**, a passionate **Web Developer**. This is my personal portfolio showcasing my skills, projects, and experience in building modern, responsive websites using HTML, CSS, Bootstrap, and JavaScript.
+Hi there! I'm **Jonnel Soriano**, a passionate **Web Developer**.  
+This is my personal portfolio showcasing my skills, projects, and experience in building modern, responsive websites using HTML, CSS, Bootstrap, and JavaScript.
 
 > 💡 Have an idea or want to collaborate? Reach out to me via email and let's build something awesome together!  
 
@@ -16,12 +17,12 @@ Hi there! I'm **Jonnel Soriano**, a passionate **Web Developer**. This is my per
 
 ## 🔥 Portfolio Features
 
-* **Light/Dark Modes Supported 🌙☀️:** Switch effortlessly between light and dark themes. Preferences are saved automatically.  
-* **Clean & Maintainable Code 👍:** Easy to read and modify.  
-* **Project Showcase 💻:** Real-world examples of my work.  
-* **Optimized for Speed 🚀:** SEO-friendly, preloading, and deferred scripts.  
-* **Testimonials ✅:** Genuine feedback from peers and collaborators.  
-* **Fully Responsive 📱:** Works perfectly on desktops, tablets, and mobile devices.  
+* **Light/Dark Modes Supported 🌙☀️** — Switch effortlessly between light and dark themes.  
+* **Clean & Maintainable Code 👍** — Easy to read and modify.  
+* **Project Showcase 💻** — Real-world examples of my work.  
+* **Optimized for Speed 🚀** — SEO-friendly, preloading, and deferred scripts.  
+* **Testimonials ✅** — Genuine feedback from peers and collaborators.  
+* **Fully Responsive 📱** — Works perfectly on desktops, tablets, and mobile devices.  
 
 ---
 
@@ -61,7 +62,3 @@ Hi there! I'm **Jonnel Soriano**, a passionate **Web Developer**. This is my per
 * LinkedIn: *(Add your LinkedIn link here if available)*  
 
 > Let's build something amazing together! 🚀
-=======
-# Jonnel-soriano-portfolio
-A modern personal portfolio website built with HTML, CSS, and JavaScript to showcase my projects, skills, and experience
->>>>>>> e1b6f750aa3b5ea87da8583a1f8cab5ff5604816
