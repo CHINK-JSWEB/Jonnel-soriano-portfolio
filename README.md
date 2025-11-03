@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 Jonnel Soriano - Web Developer Portfolio
 
 [![Website](https://img.shields.io/badge/Website-GitHub-blue?style=for-the-badge)](https://github.com/CHINK-JSWEB)
@@ -60,3 +61,7 @@ Hi there! I'm **Jonnel Soriano**, a passionate **Web Developer**. This is my per
 * LinkedIn: *(Add your LinkedIn link here if available)*  
 
 > Let's build something amazing together! 🚀
+=======
+# Jonnel-soriano-portfolio
+A modern personal portfolio website built with HTML, CSS, and JavaScript to showcase my projects, skills, and experience
+>>>>>>> e1b6f750aa3b5ea87da8583a1f8cab5ff5604816
